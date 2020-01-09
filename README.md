@@ -8,15 +8,15 @@
 
 
 ## Fitur Dalam Aplikasi
-   -Login
-   -Menu Barang
-   -Form Tambah Data
-   -Edit,Tambah,Hapus
+   - Login
+   - Menu Barang
+   - Form Tambah Data
+   - Edit,Tambah,Hapus
 ## Contributor
-   -Taufik J
-   -M.Amri
-   -ASRULLAH
-   -ABDURAHIM
+   - Taufik J
+   - M.Amri
+   - ASRULLAH
+   - ABDURAHIM
 ## Saran
-  -Menambahkan Fitur Refresh/tombol update
-  -Selalu Update
+  - Menambahkan Fitur Refresh/tombol update
+  - Selalu Update
