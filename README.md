@@ -7,16 +7,16 @@
   - Sql Server 2008 R2
 
 
-##Fitur Dalam Aplikasi
+## Fitur Dalam Aplikasi
    -Login
    -Menu Barang
    -Form Tambah Data
    -Edit,Tambah,Hapus
-#Contributor
+## Contributor
    Taufik J
    M.Amri
    ASRULLAH
    ABDURAHIM
-#Saran
+## Saran
   Menambahkan Fitur Refresh/tombol update
   Selalu Update
