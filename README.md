@@ -2,7 +2,7 @@
   Aplikasi Pembayaran
 
 ## Persyaratan
-  -Microsoft Windows 10 64 Bit
+  - Microsoft Windows 10 64 Bit
   - Visual Studio Express 2012
   - Sql Server 2008 R2
 
@@ -16,7 +16,7 @@
    Taufik J
    M.Amri
    ASRULLAH
-    ABDURAHIM
+   ABDURAHIM
 #Saran
   Menambahkan Fitur Refresh/tombol update
   Selalu Update
